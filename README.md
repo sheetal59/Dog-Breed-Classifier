@@ -1,2 +1,4 @@
-# Dog-Breed-Classifier
-This project is a part of Udacity Nanodegree program "AI Programming with Python"
+# Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
+This project is part of Udacity's 'AI Programming with Python' Nanodegree.
+
+Here, I used a created image classifier to identify dog breeds.
